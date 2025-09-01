@@ -1,6 +1,7 @@
-releaseimg: https://example.com/image.jpg
+releaseimg: https://sun9-84.userapi.com/s/v1/ig2/JswKu7TahbcmCYNX0qrcWHHI9PILzLMa-uoeEyFq9vReh_dKmPa9fQ_hUP4_v88JhpAw92Bi5LCc3Tf9ZDSmHE6m.jpg
 releaselink: https://example.com/album
-musiclinks: Apple=https://apple.com/music
-musiclinks: Spotify=https://spotify.com
-musiclinks: Vk=https://vk.com/music
-musiclinks: Yandex=https://music.yandex.ru
+musiclinks: Apple=https://music.apple.com/tm/album/людям-я-желаю-skytrick-remix/1790688966?i=1790688975
+musiclinks: Spotify=https://open.spotify.com/track/32690y8AHrC8x5lzYnq77w
+musiclinks: Vk=https://vk.com/audio-2001717460_133717460
+musiclinks: Yandex=https://music.yandex.ru/album/35011591/track/135264663?ysclid=mf15ya7sx5184522470
+
