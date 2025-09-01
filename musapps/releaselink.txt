@@ -1,9 +1,11 @@
 releaseimg: https://sun9-84.userapi.com/s/v1/ig2/JswKu7TahbcmCYNX0qrcWHHI9PILzLMa-uoeEyFq9vReh_dKmPa9fQ_hUP4_v88JhpAw92Bi5LCc3Tf9ZDSmHE6m.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2560x2560&from=bu&cs=2560x0
 releaselink: https://music.yandex.ru/artist/4004117
+releasetitle:A.S.S.P. - Людям Я Желаю (Skytrick Remix)
 musiclinks: Apple=https://music.apple.com/tm/album/людям-я-желаю-skytrick-remix/1790688966?i=1790688975
 musiclinks: Spotify=https://open.spotify.com/track/32690y8AHrC8x5lzYnq77w
 musiclinks: Vk=https://vk.com/audio-2001717460_133717460
 musiclinks: Yandex=https://music.yandex.ru/album/35011591/track/135264663?ysclid=mf15ya7sx5184522470
+
 
 
 
