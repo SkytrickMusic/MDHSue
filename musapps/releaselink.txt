@@ -4,7 +4,7 @@ releasetitle:Skytrick - DEATH MACHINE
 musiclinks: Apple=https://music.apple.com/ru/album/split-single/1849482261
 musiclinks: Spotify=https://open.spotify.com/track/32690y8AHrC8x5lzYnq77w
 musiclinks: Vk=https://vk.com/music/album/-2000144580_26144580_8aafd8fe0f3c92f7eb
-musiclinks: Yandex=https://music.yandex.ru/album/39752090
+musiclinks: Yandex=https://music.yandex.ru/album/40765610
 
 
 
